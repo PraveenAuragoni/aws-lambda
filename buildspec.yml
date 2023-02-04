@@ -10,5 +10,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - '**/*'
-  base-directory: 'target/booklambda-1.0.jar'
+    - target/booklambda-1.0.jar
+  discard-paths: yes
