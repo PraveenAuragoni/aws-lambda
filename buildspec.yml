@@ -11,4 +11,4 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'target/book-aws-lambda'
+  base-directory: 'target/booklambda-1.0.jar'
